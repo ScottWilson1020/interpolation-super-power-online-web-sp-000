@@ -4,4 +4,9 @@
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 def display_ranbow(colors)
-  puts "R: #{colors[0]}"
+  puts colors
+  
+end
+
+
+display_rainbow(colors)
