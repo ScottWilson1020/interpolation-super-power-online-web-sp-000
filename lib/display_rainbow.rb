@@ -3,8 +3,8 @@
 
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-def display_ranbow(colors)
-  puts colors
+def display_rainbow(colors)
+  puts #{colors}
   
 end
 
